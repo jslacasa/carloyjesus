@@ -14,6 +14,8 @@ El Balneario cuenta con tres opciones de distinta categoría, todas situadas a p
 2.  **Hotel Levante (4\*\*\*\*):** Una opción moderna, funcional y muy cómoda.
 3.  **Hotel León (3\*\*\*):** Una alternativa práctica y acogedora dentro del mismo recinto.
 
+> [!tip] Relax & Spa
+> Todos los hoteles incluyen acceso a las Piscinas Termales. ¡No olvidéis el bañador!
 
 ### 📅 Cómo Reservar
 Estamos gestionando un **bloque de habitaciones / descuento para invitados**. 
@@ -22,5 +24,4 @@ Estamos gestionando un **bloque de habitaciones / descuento para invitados**.
 * **Opción B:** Llamando por teléfono al (+34) 968 680 100 e indicando que asistís a la **Boda de Carlo y Jesús**.
 
 
-> [!important] Relax & Spa
-> Todos los hoteles incluyen acceso a las Piscinas Termales. ¡No olvidéis el bañador!
+### 🏠 Otras opciones
