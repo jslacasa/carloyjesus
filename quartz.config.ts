@@ -29,15 +29,23 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          // light: "#faf8f8",
+          // lightgray: "#e5e5e5",
+          // gray: "#b8b8b8",
+          // darkgray: "#4e4e4e",
+          // dark: "#2b2b2b",
+          // secondary: "#b70000",
+          // tertiary: "#dd6767",
+          // highlight: "rgba(143, 159, 169, 0.15)",
+          // textHighlight: "#fff23688",
+          light:"#fcfaf7",          // Un blanco roto/crema
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          darkgray:"#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#d80000",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          secondary: "#8b9a47",      // Un verde oliva (por el entorno del Segura)
+          tertiary: "#d4af37",       // Un toque dorado/arena
+          highlight: "rgba(212, 175, 55, 0.15)",
         },
         darkMode: {
           light: "#161618",
