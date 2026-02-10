@@ -18,7 +18,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "deploy-boda": "npx quartz build && npx staticrypt public -p Archena2026 -o public --recursive && npx quartz sync"  },
+    "deploy-boda": "npx quartz build && npx staticrypt public/index.html -p Archena2026 -o public && npx quartz sync"  },
   "engines": {
     "npm": ">=10.9.2",
     "node": ">=22"
