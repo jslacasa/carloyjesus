@@ -23,3 +23,42 @@ npx quartz build --serve
 
 
 
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 2rem;">
+
+<a href="/ES/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 1px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px;">
+    <span style="font-size: 2rem;">🇪🇸</span><br>
+    <strong>Español</strong>
+  </div>
+</a>
+
+<a href="/EN/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 1px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px;">
+    <span style="font-size: 2rem;">🇬🇧</span><br>
+    <strong>English</strong>
+  </div>
+</a>
+
+</div>
+
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 2rem;">
+
+<a href="/ES/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 1px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px;">
+    <span style="font-size: 2rem;">🇪🇸🇲🇽</span><br>
+    <strong>Español</strong>
+  </div>
+</a>
+
+<a href="/EN/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 1px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px;">
+    <span style="font-size: 2rem;">🇬🇧🇺🇲</span><br>
+    <strong>English</strong>
+  </div>
+</a>
+
+</div>
+
+
