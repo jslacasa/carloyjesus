@@ -31,7 +31,7 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Encrypt index.html with Staticrypt
-        run: staticrypt public/index.html -p "${{ secrets.BODA_PASSWORD }}" --short -d public --title "Carlo & Jesús" --instructions "¡Bienvenidos! Por favor, introduce la contraseña para ver los detalles de nuestra boda." --template-color-primary "#8b9a47" --template-button "Acceder"
+        run: staticrypt public/index.html -p "${{ secrets.BODA_PASSWORD }}" --short -d public --template-title "Carlo & Jesús" --template-color-primary "#8b9a47" --template-color-secondary "#8b9a47" --template-button "Enter"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
