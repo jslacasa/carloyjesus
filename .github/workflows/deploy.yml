@@ -26,8 +26,12 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Install Staticrypt
+        run: npm install -g staticrypt
       - name: Build Quartz
         run: npx quartz build
+      - name: Encrypt index.html with Staticrypt
+        run: staticrypt public/index.html "${{ secrets.BODA_PASSWORD }}" -o public/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
