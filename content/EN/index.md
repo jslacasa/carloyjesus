@@ -6,7 +6,7 @@ tags:
 ---
 
 <p style="font-size: 20px; line-height: 1.5;">
-  Hello everyone! We are so happy to share this journey with you. Especially to those traveling from **Mexico**, Spain, Israel, and other corners of the world: thank you for crossing borders to be with us on **September 12, 2026**.
+  Hello everyone! We are so happy to share this journey with you. Especially to those traveling from Mexico, Spain, Israel, and other corners of the world: thank you for crossing borders to be with us on <strong>September 12, 2026</strong>.
 </p>
 
 ### 📍 The Venue
