@@ -5,7 +5,7 @@ draft: false
 tags:
 ---
 
-> [!IMPORTANT] Importante
+> [!terracota] Importante
 > No olviden que para viajar desde México o Israel a España, su pasaporte debe tener una vigencia mínima de 6 meses.
 
 
