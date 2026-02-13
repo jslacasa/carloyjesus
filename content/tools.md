@@ -62,3 +62,40 @@ npx quartz build --serve
 </div>
 
 
+## Botones en otros colores
+
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 2rem;">
+
+<a href="/ES/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 2px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px;font-size: 24px;">
+    <strong>Español</strong>
+  </div>
+</a>
+
+<a href="/EN/index" style="text-decoration: none;">
+  <div style="padding: 20px; border: 2px solid #8b9a47; border-radius: 8px; text-align: center; min-width: 140px; font-size: 24px;">
+    <strong>English</strong>
+  </div>
+</a>
+
+</div>
+
+
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 2rem; flex-wrap: wrap;">
+
+<a href="/ES/index" style="text-decoration: none; color: #cf573c;">
+  <div style="padding: 20px; border: 2px solid #cf573c; border-radius: 8px; text-align: center; min-width: 140px; font-size: 24px;">
+    <strong>Español</strong>
+  </div>
+</a>
+
+<a href="/EN/index" style="text-decoration: none; color: #cf573c;">
+  <div style="padding: 20px; border: 2px solid #cf573c; border-radius: 8px; text-align: center; min-width: 140px; font-size: 24px;">
+    <strong>English</strong>
+  </div>
+</a>
+
+</div>
+
