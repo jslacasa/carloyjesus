@@ -25,7 +25,7 @@ Estamos gestionando un **bloque de habitaciones / descuento para invitados**.
 * **Opción A:** Podéis reservar directamente en la [Web Oficial del Balneario](https://balneariodearchena.com/hoteles/).
 * **Opción B:** Llamando por teléfono al (+34) 968 680 100 e indicando que asistís a la **Boda de Carlo y Jesús**.
 
-> [!terracota] Relax & Spa
+> [!terracota] Ahorra reservando con tiempo
 > Reserva con más de 45 días de antelación y obtén un 15% de descuento en tu reserva
 
 

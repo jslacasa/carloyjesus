@@ -5,9 +5,9 @@ draft: false
 tags:
 ---
 
-> [!Love] Welcome
-> We are so excited to share this special journey with you. To our family and friends traveling from abroad: thank you for making the trip to be with us on **September 12th, 2026**.
-
+<p style="font-size: 20px; line-height: 1.5;">
+  Hello everyone! We are so happy to share this journey with you. Especially to those traveling from **Mexico**, Spain, Israel, and other corners of the world: thank you for crossing borders to be with us on **September 12, 2026**.
+</p>
 
 ### 📍 The Venue
 Our story brings us to the [**Balneario de Archena (Spain)**](https://balneariodearchena.com/?lang=en). A historic oasis where we will exchange our vows at sunset.
