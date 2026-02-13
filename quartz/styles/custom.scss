@@ -21,6 +21,8 @@
   --bg: #8F1E5310; /* Very light plum background */
 }
 
+
+
 /* Inject the Heart Icon */
 .callout[data-callout="love"] > .callout-title > .callout-icon {
   background-color: var(--color);
@@ -57,3 +59,32 @@
 //     display: none;
 //   }
 // }
+
+
+/* Callout Terracota con Icono Flame */
+.callout[data-callout="terracota"] {
+  --color: #cf573c;
+  --border: #df7a64;
+  --bg: rgba(207, 87, 60, 0.1);
+
+  & > .callout-title > .callout-icon {
+    /* SVG de Lucide 'flame' */
+    background-color: var(--color);
+    mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>') no-repeat 50% 50%;
+    mask-size: 100%;
+  }
+}
+
+/* Callout Info Personalizado (#cf573c) */
+.callout[data-callout="info-boda"] {
+  --color: #cf573c;
+  --border: #df7a64;
+  --bg: rgba(207, 87, 60, 0.1);
+
+  & > .callout-title > .callout-icon {
+    /* SVG de Lucide 'info' */
+    background-color: var(--color);
+    mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>') no-repeat 50% 50%;
+    mask-size: 100%;
+  }
+}

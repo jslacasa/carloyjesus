@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Montserrat",
+        body: "Montserrat", //"Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -35,15 +35,15 @@ const config: QuartzConfig = {
           // darkgray: "#4e4e4e",
           // dark: "#2b2b2b",
           // secondary: "#b70000",
-          // tertiary: "#dd6767",
+          // tertiary: "#4d0000",
           // highlight: "rgba(143, 159, 169, 0.15)",
           // textHighlight: "#fff23688",
-          light:"#fcfaf7",          // Un blanco roto/crema
+          light:"#fff4e3",          // Un blanco roto/crema
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray:"#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#8b9a47",      // Un verde oliva (por el entorno del Segura)
+          dark: "#642a00",
+          secondary: "#78853d",      // Un verde oliva (por el entorno del Segura)
           tertiary: "#d4af37",       // Un toque dorado/arena
           highlight: "rgba(212, 175, 55, 0.15)",
         },
